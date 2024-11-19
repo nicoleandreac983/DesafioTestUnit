@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Componente HomeView.vue > Validacion de match con el snapshot 1`] = `
+"<div data-v-b4e148ca="">
+  <h1 data-v-b4e148ca="" class="Texto">Homeview</h1><button data-v-b4e148ca="" class="boton">Enviar</button>
+</div>"
+`;

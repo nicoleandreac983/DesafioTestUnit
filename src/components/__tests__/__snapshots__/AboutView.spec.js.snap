@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Componente AboutView.vue > Validacion de match con el snapshot 1`] = `
+"<div>
+  <h1>Soy un ABOUT!</h1>
+</div>"
+`;
